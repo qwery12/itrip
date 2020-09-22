@@ -1,0 +1,6 @@
+**/target/
+**/classes/
+*.class
+*.jar
+*.iml
+Thumbs.db
